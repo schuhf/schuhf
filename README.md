@@ -6,7 +6,7 @@
 
 Some analysis I've developed:
 - "Rotina_RNQA.ipynb" -> automated download and data processing from water quality monitoring stations
-- 
+- "area_usos_do_solo_mapbiomas.ipynb" -> automated landcover classification analysis with MAPBIOMAS dataset
 
 <!---
 schuhf/schuhf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
