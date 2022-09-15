@@ -4,6 +4,10 @@
 - I’m looking to collaborate on Python-GEE integrated routines, helping to stop people clicking so much buttons on QGIS/ArcGIS.
 - How to reach me: my personal e-mail is frorigf@gmail.com
 
+Some analysis I've developed:
+- "Rotina_RNQA.ipynb" -> automated download and data processing from water quality monitoring stations
+- 
+
 <!---
 schuhf/schuhf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
